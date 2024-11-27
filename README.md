@@ -1,6 +1,6 @@
 Olá 👋
 
-- 🔭 Sou estudante de Análise de Dados pela Escola Britânica de Artes Criativas e Tecnologia (EBAC)
+- 🔭 Interesse em Análise de Dados pela Escola Britânica de Artes Criativas e Tecnologia (EBAC)
 - 🌱 I’m currently learning linux, python, análise de dados, planilhas do google, SQL (...)
 
 <div style="display: inline_block"><br>

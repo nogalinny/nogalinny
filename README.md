@@ -1,7 +1,7 @@
 Olá 👋
 
 - 🔭 Interesse em Análise de Dados
-- 🌱 I’m currently learning linux, python, análise de dados, planilhas do google, SQL (...)
+- 🌱 Estou estudando linux, python, análise de dados, planilhas do google, SQL (...)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

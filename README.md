@@ -1,4 +1,4 @@
-📊 Estudante de Data Analytics | 📚 Pós-graduanda | 💻 Iniciando na área de dados
+Estudante de Data Analytics | Pós-graduanda | Iniciando na área de dados
 
 Atualmente, me dedico à transição de carreira para a área de dados, aliando minha experiência prática em contabilidade e finanças com uma formação em Data Analytics pela EBAC. 
 

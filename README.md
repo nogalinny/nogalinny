@@ -12,11 +12,14 @@ Atualmente, me dedico à transição de carreira para a área de dados, aliando 
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Excel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg">
+  
+  <!-- SQLite via alternativa -->
+  <img align="center" alt="SQLite" height="30" width="40" src="https://www.sqlite.org/images/sqlite-square-icon.png">
+  
+  <!-- Excel via alternativa -->
+  <img align="center" alt="Excel" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-microsoft-excel-1411847-1194334.png">
 </div>
-
-          
+    
   ##
 
 <div> 

@@ -1,6 +1,6 @@
-Olá 👋
+📊 Estudante de Data Analytics | 📚 Pós-graduanda | 💻 Iniciando na área de dados
 
-Interesse em Análise de Dados
+Atualmente, me dedico à transição de carreira para a área de dados, aliando minha experiência prática em contabilidade e finanças com uma formação em Data Analytics pela EBAC. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

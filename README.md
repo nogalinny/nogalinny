@@ -17,14 +17,12 @@
 </p>
 </p>
 
-<table width="100%" style="margin-top: 40px;">
-  <tr>
-    <td width="60%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogalinny&layout=compact&langs_count=100&theme=dark" alt="Top languages" />
-    </td>
-    <td width="40%" valign="middle" style="font-size: 20px; padding-left: 30px;">
-      <p>✉️ <a href="mailto:nogalinny@gmail.com">nogalinny@gmail.com</a></p>
-      <p>🔗 <a href="https://www.linkedin.com/in/nogalinny/" target="_blank">LinkedIn</a></p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; align-items: center; gap: 60px; margin-top: 40px; flex-wrap: wrap;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogalinny&layout=compact&langs_count=100&theme=dark" alt="Top languages" />
+  </div>
+  <div style="font-size: 22px; line-height: 1.8; text-align: left;">
+    <p>📧 <a href="mailto:nogalinny@gmail.com" style="text-decoration:none; color: inherit;">nogalinny@gmail.com</a></p>
+    <p>🔗 <a href="https://www.linkedin.com/in/nogalinny/" target="_blank" style="text-decoration:none; color: inherit;">linkedin.com/in/nogalinny</a></p>
+  </div>
+</div>

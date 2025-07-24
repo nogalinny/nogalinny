@@ -17,11 +17,11 @@
 </p>
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 60px; margin-top: 40px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 50px; margin-top: 40px; flex-wrap: nowrap;">
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogalinny&layout=compact&langs_count=100&theme=dark" alt="Top languages" />
   </div>
-  <div style="font-size: 22px; line-height: 1.8; text-align: left;">
+  <div style="font-size: 20px; line-height: 1.6;">
     <p>📧 <a href="mailto:nogalinny@gmail.com" style="text-decoration:none; color: inherit;">nogalinny@gmail.com</a></p>
     <p>🔗 <a href="https://www.linkedin.com/in/nogalinny/" target="_blank" style="text-decoration:none; color: inherit;">linkedin.com/in/nogalinny</a></p>
   </div>

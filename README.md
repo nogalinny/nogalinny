@@ -17,17 +17,11 @@
 </p>
 </p>
 
----
-
-<!-- Linguagens mais usadas -->
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogalinny&layout=compact&langs_count=8&theme=default" alt="Top languages" />
 </p>
 
----
-
 <p align="center">
-  <a href="mailto:nogalinny@gmail.com">alinny.nogueira.gf@gmail.com</a> |
+  <a href="mailto:nogalinny@gmail.com">nogalinny@gmail.com</a> |
   <a href="https://www.linkedin.com/in/nogalinny/">LinkedIn</a>
 </p>

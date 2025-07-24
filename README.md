@@ -22,16 +22,9 @@
 </p>
 <div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
   <div>
-    <h3>Perfil e Skills</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=nogalinny&show_icons=true&theme=default&hide_title=true&count_private=true" />
   </div>
   <div>
-    <h3>Atividades no GitHub</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogalinny&layout=compact&langs_count=8&theme=default" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nogalinny&theme=default" />
-  </div>
-</div>
 
 <p align="center">
   <a href="mailto:nogalinny@gmail.com">nogalinny@gmail.com</a> |

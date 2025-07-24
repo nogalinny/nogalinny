@@ -1,5 +1,3 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Estudante+de+Data+Analytics;P%C3%B3s-graduada+em+Data+Science;Transi%C3%A7%C3%A3o+de+Carreira+para+a+%C3%A1rea+de+Dados" alt="Typing SVG" />
-
 <div align="center">
   <h3>Estudante de Data Analytics | Pós em Data Science | Transição de Carreira</h3>
   <p>Me dedico à transição de carreira para a área de dados, aliando minha experiência prática em contabilidade e finanças com uma formação em Data Analytics pela EBAC.</p>

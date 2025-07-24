@@ -1,36 +1,37 @@
-<h1 align="center">Olá, eu sou a Alinny 👋</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Estudante+de+Data+Analytics;P%C3%B3s-graduanda+em+Data+Science;Transi%C3%A7%C3%A3o+de+Carreira+para+a+%C3%A1rea+de+Dados" alt="Typing SVG" />
 
 <div align="center">
-  <h3>📊 Estudante de Data Analytics | 🎓 Pós em Data Science | 💼 Transição de Carreira</h3>
+  <h3>Estudante de Data Analytics | Pós em Data Science | Transição de Carreira</h3>
   <p>Com formação em contabilidade e experiência em finanças, estou migrando para a área de dados com foco em análise, visualização e automação com Python.</p>
 </div>
 
----
-
-### 🛠️ Tecnologias que estou usando:
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" alt="Jupyter Notebook" title="Jupyter Notebook"/>
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" alt="Google Colab" title="Google Colab"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" title="Visual Studio Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub"/>
-</div>
-
----
-
-### 📫 Contato:
-<div align="center">
-  <a href="https://www.linkedin.com/in/alinny-nogueira-716b46163/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:nogalinny@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Power_bi_logo_black.svg" width="40" height="40"/>
+</p>
 
 ---
 
-<div align="center">
-  <sub>🚧 Em constante aprendizado e evolução 🚀</sub>
-</div>
+<!-- Linguagens mais usadas -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinnynogueira&layout=compact&langs_count=8&theme=default" alt="Top languages" />
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:alinny.nogueira.gf@gmail.com">alinny.nogueira.gf@gmail.com</a> |
+  <a href="https://www.linkedin.com/in/alinnynogueira/">LinkedIn</a>
+</p>

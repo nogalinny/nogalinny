@@ -17,16 +17,14 @@
 </p>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogalinny&layout=compact&langs_count=8&theme=default" alt="Top languages" />
-</p>
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=nogalinny&show_icons=true&theme=default&hide_title=true&count_private=true" />
-  </div>
-  <div>
-
-<p align="center">
-  <a href="mailto:nogalinny@gmail.com">nogalinny@gmail.com</a> |
-  <a href="https://www.linkedin.com/in/nogalinny/">LinkedIn</a>
-</p>
+<table width="100%" style="margin-top: 40px;">
+  <tr>
+    <td width="60%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogalinny&layout=compact&langs_count=100&theme=dark" alt="Top languages" />
+    </td>
+    <td width="40%" valign="middle" style="font-size: 20px; padding-left: 30px;">
+      <p>✉️ <a href="mailto:nogalinny@gmail.com">nogalinny@gmail.com</a></p>
+      <p>🔗 <a href="https://www.linkedin.com/in/nogalinny/" target="_blank">LinkedIn</a></p>
+    </td>
+  </tr>
+</table>

@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Estudante de Data Analytics | Pós em Data Science | Transição de Carreira</h3>
+  <h3>Estudante de Data Analytics | Transição de Carreira</h3>
   <p>Me dedico à transição de carreira para a área de dados, aliando minha experiência prática em contabilidade e finanças com uma formação em Data Analytics pela EBAC.</p>
 </div>
 
